@@ -1,0 +1,3 @@
+[submodule "projects/llm-opinion-dynamics"]
+	path = projects/llm-opinion-dynamics
+	url = git@github.com:ovladisluvv/LLM-opinion-dynamics.git
